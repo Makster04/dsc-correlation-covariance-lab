@@ -1,4 +1,4 @@
-# Covariance and Correlation - Lab
+# [Covariance and Correlation - Lab](https://colab.research.google.com/gist/bpurdy-ds/af05b57ad3aabf52ef742deafbe0d4b2/index.ipynb)
 
 ## Introduction
 
